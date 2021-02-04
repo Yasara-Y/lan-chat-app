@@ -12,6 +12,7 @@ import javax.swing.JOptionPane;
  *
  * @author Pinder
  */
+//Author yaci
 public class MultiClient {
     MultiClient() { name= JOptionPane.showInputDialog("Please enter your name");
         int count=0;

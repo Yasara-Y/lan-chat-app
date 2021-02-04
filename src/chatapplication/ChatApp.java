@@ -8,7 +8,7 @@ package chatapplication;
 import java.awt.Color;
 
 
-
+//Hello there
 /**
  *
  * @author Pinder
